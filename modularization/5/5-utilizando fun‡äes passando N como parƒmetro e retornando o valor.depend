@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590324846 source:c:\users\loohs\onedrive\Área de trabalho\aed\5-utilizando funções passando n como parâmetro e retornando o valor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
