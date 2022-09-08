@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591307957 source:c:\users\loohs\onedrive\Área de trabalho\aed\arranjos\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
