@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590418829 source:c:\users\loohs\onedrive\Área de trabalho\aed\atividade 1\j.c
+
+1590419136 source:c:\users\loohs\onedrive\Área de trabalho\aed\atividade 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Atividade 1.h"
+
+1590417839 c:\users\loohs\onedrive\Área de trabalho\aed\atividade 1\atividade 1.h
+
